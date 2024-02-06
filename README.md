@@ -36,7 +36,7 @@ Lo anterior nos permite garantizar que realmente estás refiriendo a las persona
 
 ## Para qué programas y cursos puedo referir estudiantes
 
-Sólo aplica para el **[Programa TOP Full Stack Developer Perú 2004](https://docs.google.com/forms/d/e/1FAIpQLSeA0sNmTlfOqpqUoeFnVmTcrmDnmH3hH0-vQ_j1ruIFf6wGiA/viewform)**
+Sólo aplica para el **[Programa TOP Full Stack Developer Perú 2004](https://makeitreal.camp/programa-becas-de-bootcamp-proinnovate-2024)**
 
 ## Cómo me pagan si refiero a un estudiante
 
